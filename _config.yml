@@ -1,5 +1,5 @@
 # site variables
-url:          "https://francescofabiano.github.io"
+url:          "https://ijasmuhammed98.github.io"
 baseurl:      ""
 source:       ./_src
 destination:  ./_site
