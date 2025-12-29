@@ -1,84 +1,32 @@
-- school: The Ohio State University
-  degree: Ph.D
+- school: The Ohio State University, United States
+  degree: Ph.D in Electrical and Computer Engineering
   date: Aug 2024 - Today
-  link: https://www.cs.ox.ac.uk/
+  link: https://www.osu.edu/
   description: |
-    Research Associate on the EPSRC-funded <a target="_blank" href="https://erlangenhub.ox.ac.uk/">Erlangen AI Hub</a> at the <a target="_blank" href="https://www.ox.ac.uk/">University of Oxford</a>, based in the <a target="_blank" href="https://www.cs.ox.ac.uk/">Department of Computer Science</a>.
-    My research focuses on the computational foundations of AI, with a particular emphasis on understanding decision-making.
-
-    I am also affiliated with <a target="_blank" href="https://www.kellogg.ox.ac.uk/">Kellogg College</a> as a Junior Research Fellow.
-
-    <strong>Profiles</strong>
-    <ul>
-      <li><a target="_blank" href="https://www.cs.ox.ac.uk/people/francesco.fabiano/">Oxford, Computer Science Department</a></li>
-      <li><a target="_blank" href="https://www.kellogg.ox.ac.uk/our-people/francesco-fabiano/">Kellogg College</a></li>
-    </ul>
+    I joined OSU in Autumn of 2024 with a Graduate fellowship from College of Engineering. Later I joined Dr.Siddharth Rajan's group for as a PhD student, working on design and processing
+    of AlGaN/GaN high electron mobilty transistors (HEMT) and polarization doped field effect trasistor (PolFETs) for single event testing.
 
      <ul class="list naked-list" style="font-size: 15px">
-       <li> Advisors: <a target="_blank" href="https://www.cs.ox.ac.uk/people/alessandro.abate/">Alessandro Abate</a> and <a target="_blank" href="https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/">Giuseppe De Giacomo</a></li>
+       <li> Advisors: <a target="_blank" href="https://scholar.google.com/citations?user=f3MzMwoAAAAJ&hl=en">Prof.Siddharth Rajan</a> </li>
      </ul>
 
-- school: IBM Watson Research Lab
-  degree: Joint Study
-  date: April 2020 - Today
-  link: https://research.ibm.com/labs/yorktown-heights
+- school: Ghent University, Belgium
+  degree: M.Sc in Photonics Engineering
+  date: September 2022 - July 2024
+  link: https://www.ugent.be/en
   description: |
-    Part of an <a href='https://sites.google.com/view/sofai/home' target="_blank">IBM Watson Research Lab Group</a>, led by Dr. Rossi, comprised of researchers from IBM
-    and various universities.
-    With this research group, we are analyzing well-known cognitive theories to define a general AI paradigm
-    starting from cognitive theories such as the one popularized by D. Kahneman in his book <a target="_blank" href='https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow'><i>Thinking Fast and Slow</i></a>.
+    I joined UGENT for a second master's degree to shift my interest towards semiconductor device physics and optoelectronics.
+    With Photonics Reseatch group at UGENT (associate lab of IMEC), I worked on design and processing of optical isolator free heterogeneosuly integrated InP on Si DBR laser diodes.
+     <ul class="list naked-list" style="font-size: 15px">
+       <li> Advisors: <a target="_blank" href="https://www.photonics.intec.ugent.be/contact/people.asp?ID=3">Prof.Geert Mortier</a> </li>
+     </ul>
 
-    <ul class="list naked-list" style="font-size: 15px">
-    <li> Advisor: <a target="_blank" href="https://research.ibm.com/people/francesca-rossi">Francesca Rossi</a></li>
-    </ul>
-
-- school: University of Udine
-  degree: Ph.D. in Computer Science
-  date: November 2018 - October 2021
-  link: https://www.dmif.uniud.it/en/phd-courses/imf/
+- school: Indian Institute of Science Education and Research (IISER) Bhopal, India
+  degree: B.S - M.S (Dual Degree) in Physics
+  date: August 2017 - June 2022
+  link: https://www.iiserb.ac.in/
   description: |
-    Ph.D. focused on formalizing and developing tools for planning in multi-agent scenarios involving higher-order knowledge or beliefs.
-
+    M.S thesis on Third order non-linear optical response of Rhenium Disulfide and Rhenium Diselenide 2D semiconductors and its alloys.
     <ul class="list naked-list" style="font-size: 15px">
-        <li> Award: Best Ph.D. Thesis Award by GULP, 2022</li>
-        <li> Research thesis title: <a target="_blank" href='../assets/ffabiano_phd_thesis.pdf'><i>Planning while Believing to Know</i></a></li>
-        <li> Advisors: <a target="_blank" href="https://users.dimi.uniud.it/~agostino.dovier/">Agostino Dovier</a>, <a target="_blank" href="https://personale.unipr.it/en/ugovdocenti/person/15281">Alessandro Dal Palù</a>, and <a target="_blank" href="https://computerscience.nmsu.edu/facultydirectory/individual-bio-pages/enrico-pontelli.html">Enrico Pontelli</a></li>
-        <li> Final Mark: cum Laude</li>
-    </ul>
-
-- school: New Mexico State University
-  degree: Master's Degree in Computer Science
-  date: January 2017 - May 2018
-  link: https://computerscience.nmsu.edu/
-  description: |
-    Master of Science program specializing in logic, declarative programming, automated planning, with a strong emphasis on producing research papers.
-
-    <ul class="list naked-list" style="font-size: 15px">
-    <li> Research thesis title: <a target="_blank" href='../assets/ffabiano_master_thesis.pdf'><i>EFP and PG-EFP: Epistemic Forward Planners in Multi-Agent Domains</i></a></li>
-    <li> Advisors: <a target="_blank" href="https://computerscience.nmsu.edu/facultydirectory/individual-bio-pages/enrico-pontelli.html">Enrico Pontelli</a> and <a target="_blank" href="https://datascience.nmsu.edu/facultydirectory/affiliated-faculty/soncaotran.html">Son Cao Tran</a></li>
-    <li>Final GPA: 3.88</li>
-    </ul>
-
-- school: University of Parma
-  degree: Bachelor’s Degree in Computer Science
-  date: October 2013 - December 2016
-  link: https://corsi.unipr.it/en/cdl-info
-  description: |
-    Bachelor of Science program with an emphasis on theoretical computer science, logic, and foundational aspects of Artificial Intelligence, along with research fundamentals.
-
-    <ul class="list naked-list" style="font-size: 15px">
-    <li> Research thesis title: <a target="_blank" href='../assets/ffabiano_bachelor_thesis.pdf'><i>Load Distribution Analysis in an MPI Framework</i></a></li>
-    <li> Advisor: <a target="_blank" href="https://personale.unipr.it/en/ugovdocenti/person/15281">Alessandro Dal Palù</a></li>
-    <li> Final Mark: 109/110</li>
-    </ul>
-
-- school: Liceo Scientifico G. Marconi
-  degree: Scientific High School Diploma
-  date: September 2008 - June 2013
-  link: https://www.liceomarconipr.edu.it/
-  description: |
-    Comprehensive program that provided a strong foundation in mathematics and helped me develop effective study skills.
-
-    <ul class="list naked-list" style="font-size: 15px">
-    <li> Final Mark: 96/100</li>
+      <li> Advisors: <a target="_blank" href="https://ufsnloiiserb.wixsite.com/adarsh/members">Prof.K.V.Adarsh</a> </li>
     </ul>

@@ -1,122 +1,34 @@
-- title: SOFAI @IBM
-  long_title: Thinking Fast and Slow project webpage
-  date: ongoing
+- title: Paul Drude Institute
+  long_title: Research Intern
+  date: July 2023 - Sept 2023
 #  github: https://github.com/FrancescoFabiano/EFP
-  link: https://sites.google.com/view/sofai/home
+  link: https://www.pdi-berlin.de/
   description: |
-    The SOFAI project project whose aim is to advance AI by leveraging cognitive theories of how humans make decisions,
-    with particular focus on the <a target="_blank" href='https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow'>Thinking Fast and Slow</a> theory of Daniel Kahneman.
-    The project is led by IBM Research in collaboration with several academic partners. 
+    Investigation of optical properties of top-down fabricated InGaN nanowires (NW) from layers grown by molecular beam epitaxy (MBE), using Spectroscopic ellipsometry, micro photoluminescence (µ-PL), reflectance-transmittance measurements. Numerical simulations using Lumerical FDTD & FDE to predict the absorptance and supported guided and resonant leaky modes in the GaAs NWs and InGaN NWs.
 
-    <br> Click the link icon in the top-right corner or <a href='https://sites.google.com/view/sofai/home' target="_blank">Here</a> to open the project website.
 
-  tags:
-    - research
-    - artificial intelligence
-    - hybrid
-    - neuro-symbolic
-    - ibm
-
-- title: deep
-  long_title: Dynamic Epistemic logic-basEd Planner
-  date: ongoing
-  github: https://github.com/FrancescoFabiano/deep
+- title: IIT-Bombay
+  long_title: Undergraduate summer intern
+  date: June 2021- August 2021
+#  github: https://github.com/FrancescoFabiano/EFP
+  link: https://www.ee.iitb.ac.in/web/people/anil-kottantharayil/
   description: |
-    This project implemets a solver, called deep, designed following the imperative programming paradigm.
-    In particular, the solver is fully developed in C++.
-    deep is a general and comprehensive epistemic forward solver that can solve problems defined in mA*.
-    Moreover, thanks to the introduction of agents’ attitudes and other capabilities, the planner
-    allows the users to tailor actions in whichever fashion they prefer without having
-    to worry about tedious and intricate effects definitions.
+    Optical simulations of different textured & planar anti-reflective coatings in c-Si solar cells to study the light trapping effect using Transfer matrix method (TMM) and Rigourous coupled wave analysis (RCWA) with RayFlare package and electrical modeling for I-V characteristics using SOLCORE package in Python (Remotely due to covid
+    restrictions)
 
-    <br> Click the github icon in the top-right corner or <a href='https://github.com/FrancescoFabiano/deep' target="_blank">Here</a> to open the project repository.
-
-  tags:
-    - research
-    - artificial intelligence
-    - multi-agent
-    - planning
-    - epistemic
-    - solver
-    - planner
+- title: IISc-Banglore
+  long_title: Visiting student researcher
+  date: June 2019- August 2019, & Dec 2019
+#  github: https://github.com/FrancescoFabiano/EFP
+  link:  https://materials.iisc.ac.in/~dasgupta/pages/People.html
+  description: |
+    Fabrication of inkjet printed ferroelectric field effect transistor (FeFET), followed by electrical characterization. Synthesised and optimized the Ag, Cu2O, PVDF-TrFE, CSPE, In2O3 inks for printing
 
 
-- title: SGD-II @SJU
-  long_title: SDG Dashboard website
-  date: ongoing
+- title: CUSAT
+  long_title: Undergraduate summer intern
+  date: June 2018- August 2018
 #  github: https://github.com/rand-asswad/muallef
-  link: https://sdgdashboard.sju.edu/
+  link: https://physics.cusat.ac.in/infrastructure/research-labs/2/
   description: |
-    The SDG Dashboard is a collaborative data reporting and analytics platform
-    for global business schools to share their best practice impacts on the United Nations
-    Sustainable Development Goals (SDGs) and transform business education into a force for good.
-
-    <br> Click the link icon in the top-right corner or <a href='https://sdgdashboard.sju.edu/' target="_blank">Here</a> to open the project website.
-
-  tags:
-    - research
-    - artificial intelligence
-    - data science
-    - un
-    - education
-
-
-- title: SYNERGY 2024
-  long_title: SYNERGY Workshop <a href='https://kr.org/KR2024/' target="_blank">@ KR 2024</a>
-  date: November 2024
-#  github: https://github.com/rand-asswad/muallef
-  link: https://sites.google.com/view/kr-synergy/synergy
-  description: |
-    SYNERGY (Symbolic and Neuro-Symbolic Architectures for Intelligent Robotics Technology) is a workshop that aims at fostering in-depth discussions on Knowledge Representation (KR)
-    and neuro-symbolic architectures with the goal of advancing intelligent robotics to new levels of sophistication.
-    SYNERGY 2024 was held at the <a href='https://kr.org/KR2024/' target="_blank">21st International Conference on Principles of Knowledge Representation and Reasoning</a> (KR 2024).
-
-    <br> Click the link icon in the top-right corner or <a href='https://sites.google.com/view/kr-synergy/synergy' target="_blank">Here</a> to open the event's website.
-
-  tags:
-    - research
-    - event 
-    - workshop
-    - neuro-symbolic AI
-    - robotics
-
-- title: ICLP/LPNMR-DC 2024
-  long_title: Doctoral Consortium and School on Logic Programming <a href='https://www.iclp24.utdallas.edu/' target="_blank">@ ICLP</a>/<a href='https://lpnmr2024.demacs.unical.it/' target="_blank">LPNMR 2024</a>
-  date: October 2024
-#  github: https://github.com/rand-asswad/muallef
-  link: https://sites.google.com/view/iclplpnmrdc2024/iclplpnmr-dc-2024
-  description: |
-    The ICLP & LPNMR Doctoral Consortium (ICLP/LPNMR-DC 2024) and the Autumn School on Logic Programming have taken place during the
-    <a href='https://www.iclp24.utdallas.edu/' target="_blank">40th International Conference on Logic Programming</a> (ICLP 2024) and the 
-    <a href='https://lpnmr2024.demacs.unical.it/' target="_blank">17th International Conference on Logic Programming and Non-monotonic Reasoning</a> (LPNMR 2024) in Dallas, Texas, US, on October 12-13, 2024.
-
-    <br> Click the link icon in the top-right corner or <a href='https://sites.google.com/view/iclplpnmrdc2024/iclplpnmr-dc-2024' target="_blank">Here</a> to open the event's website.
-
-  tags:
-    - research
-    - event 
-    - logic programming
-    - doctoral consortium
-    - school
-
-
-- title: ICLP-DC 2023
-  long_title: Doctoral Consortium <a href='https://iclp2023.imperial.ac.uk/home' target="_blank">@ ICLP 2023</a>
-  date: July 2023
-#  github: https://github.com/rand-asswad/muallef
-  link: https://iclp2023.imperial.ac.uk/affiliated-events/doctorial-consortium
-  description: |
-    The 19th Doctoral Consortium (DC) on Logic Programming was part of the <a href='https://iclp2023.imperial.ac.uk/home' target="_blank">39th International Conference on Logic Programming</a> (ICLP 2023).
-    The DC provided students and early career researchers with the opportunity
-    to present and discuss their research directions, obtain feedback from both peers and experts in the field, and participate
-    in mentoring sessions on how to prepare for a research career.
-    In particular, the DC hosted leaders in logic programming research, from academia and industry, that
-    gave talks on their research areas and comment on the presented works, providing valuable insights for early career researchers.
-
-    <br> Click the link icon in the top-right corner or <a href='https://iclp2023.imperial.ac.uk/affiliated-events/doctorial-consortium' target="_blank">Here</a> to open the event's website.
-
-  tags:
-    - research
-    - event 
-    - logic programming
-    - doctoral consortium
+    Optimising the deposition of p-type Cu2O thin films by RF-Magnetron sputtering. Fabrication and I-V characterization of p-type oxide Thin film transistors(TFT).
