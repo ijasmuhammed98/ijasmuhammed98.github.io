@@ -1,7 +1,7 @@
 - school: The Ohio State University
   degree: Ph.D
-  date: Aug 2024 - present
-  link: https://www.osu.edu/
+  date: Aug 2024 - Today
+  link: https://www.cs.ox.ac.uk/
   description: |
     Research Associate on the EPSRC-funded <a target="_blank" href="https://erlangenhub.ox.ac.uk/">Erlangen AI Hub</a> at the <a target="_blank" href="https://www.ox.ac.uk/">University of Oxford</a>, based in the <a target="_blank" href="https://www.cs.ox.ac.uk/">Department of Computer Science</a>.
     My research focuses on the computational foundations of AI, with a particular emphasis on understanding decision-making.
@@ -14,7 +14,7 @@
       <li><a target="_blank" href="https://www.kellogg.ox.ac.uk/our-people/francesco-fabiano/">Kellogg College</a></li>
     </ul>
 
-   <ul class="list naked-list" style="font-size: 15px">
+     <ul class="list naked-list" style="font-size: 15px">
        <li> Advisors: <a target="_blank" href="https://www.cs.ox.ac.uk/people/alessandro.abate/">Alessandro Abate</a> and <a target="_blank" href="https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/">Giuseppe De Giacomo</a></li>
      </ul>
 
