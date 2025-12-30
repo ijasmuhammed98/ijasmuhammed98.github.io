@@ -1,5 +1,5 @@
 # site variables
-url:          "https://ijasmuhammed98.github.io"
+url:          "https://ijaas.work"
 baseurl:      ""
 source:       ./_src
 destination:  ./_site
