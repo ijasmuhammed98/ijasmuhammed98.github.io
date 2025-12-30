@@ -1,6 +1,6 @@
 ---
 title: experience
-order: "02"
+order: "03"
 ---
 
 <div class="loader_sec"><span></span></div>
@@ -8,12 +8,12 @@ order: "02"
 <h1 class="section-header">Experience</h1>
 <div id="projects" class="tabs-container">
   <div class="tabs">
-    {% for p in site.data.projects %}
+    {% for p in site.data.experience %}
       <a href="#proj{% increment tabLink %}" class="tab">{{ p.title }}</a>
     {% endfor %}
   </div>
   <div class="tabs-content">
-    {% for p in site.data.projects %}
+    {% for p in site.data.experience %}
       <div class="content" id="proj{% increment tab %}">
         <div class="tab-title">
           <div class="icons">

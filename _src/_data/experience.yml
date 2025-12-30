@@ -1,131 +1,34 @@
-- company: Oxford
-  company_w_location: University of Oxford
-  link: https://www.cs.ox.ac.uk/
-  title: Research Associate
-  date: January 2025 - Today
+- title: Paul Drude Institute
+  long_title: Research Intern
+  date: July 2023 - Sept 2023
+#  github: https://github.com/FrancescoFabiano/EFP
+  link: https://www.pdi-berlin.de/
   description: |
-    Research Associate on the EPSRC-funded <a target="_blank" href="https://erlangenhub.ox.ac.uk/">Erlangen AI Hub</a> at the <a target="_blank" href="https://www.ox.ac.uk/">University of Oxford</a>, based in the <a target="_blank" href="https://www.cs.ox.ac.uk/">Department of Computer Science</a>.
-    My research focuses on the computational foundations of AI, with a particular emphasis on understanding decision-making.
+    Investigation of optical properties of top-down fabricated InGaN nanowires (NW) from layers grown by molecular beam epitaxy (MBE), using Spectroscopic ellipsometry, micro photoluminescence (µ-PL), reflectance-transmittance measurements. Numerical simulations using Lumerical FDTD & FDE to predict the absorptance and supported guided and resonant leaky modes in the GaAs NWs and InGaN NWs.
 
-    I am also affiliated with <a target="_blank" href="https://www.kellogg.ox.ac.uk/">Kellogg College</a> as Junior Research Fellow.
 
-    <strong>External Profiles</strong>  
-    <ul>
-      <li><a target="_blank" href="https://www.cs.ox.ac.uk/people/francesco.fabiano/">Oxford, Computer Science Department</a></li>
-      <li><a target="_blank" href="https://www.kellogg.ox.ac.uk/our-people/francesco-fabiano/">Kellogg College</a></li>
-      <li><a target="_blank" href="https://www.trinity.ox.ac.uk/people/francesco-fabiano">Trinity College</a></li>
-    </ul>
-
-- company: Oxford
-  company_w_location: Trinity College, Oxford
-  link: https://www.trinity.ox.ac.uk/
-  title: Lecturer in Computer Science
-  date: October 2025 - November 2026
+- title: IIT-Bombay
+  long_title: Undergraduate summer intern
+  date: June 2021- August 2021
+#  github: https://github.com/FrancescoFabiano/EFP
+  link: https://www.ee.iitb.ac.in/web/people/anil-kottantharayil/
   description: |
-    Lecturer at Trinity College, providing tutorial support to Computer Science students for the course <i>Imperative Programming</i>.
+    Optical simulations of different textured & planar anti-reflective coatings in c-Si solar cells to study the light trapping effect using Transfer matrix method (TMM) and Rigourous coupled wave analysis (RCWA) with RayFlare package and electrical modeling for I-V characteristics using SOLCORE package in Python (Remotely due to covid
+    restrictions)
 
-    <strong>External Profiles</strong>  
-    <ul>
-      <li><a target="_blank" href="https://www.trinity.ox.ac.uk/people/francesco-fabiano">Trinity College</a></li>
-    </ul>
-
-- company: IBM
-  company_w_location: IBM Research
-  link: https://research.ibm.com/labs/yorktown-heights
-  title: Joint Researcher
-  date: April 2020 - Today
+- title: IISc-Banglore
+  long_title: Visiting student researcher
+  date: June 2019- August 2019, & Dec 2019
+#  github: https://github.com/FrancescoFabiano/EFP
+  link:  https://materials.iisc.ac.in/~dasgupta/pages/People.html
   description: |
-    Part of an <a href='https://sites.google.com/view/sofai/home' target="_blank">IBM Watson Research Lab Group</a>, led by Dr. Rossi, comprised of researchers from IBM
-    and various universities.
-    With this research group, we are analyzing well-known cognitive theories to define a general AI paradigm
-    starting from cognitive theories such as the one popularized by D. Kahneman in his book <a target="_blank" href='https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow'><i>Thinking Fast and Slow</i></a>.
+    Fabrication of inkjet printed ferroelectric field effect transistor (FeFET), followed by electrical characterization. Synthesised and optimized the Ag, Cu2O, PVDF-TrFE, CSPE, In2O3 inks for printing
 
-- company: NMSU
-  company_w_location: New Mexico State University
-  link: https://www.nmsu.edu/
-  title: Affiliated Faculty Member
-  date: August 2024 - Today
+
+- title: CUSAT
+  long_title: Undergraduate summer intern
+  date: June 2018- August 2018
+#  github: https://github.com/rand-asswad/muallef
+  link: https://physics.cusat.ac.in/infrastructure/research-labs/2/
   description: |
-    Affiliated Faculty at the Computer Science Department of New Mexico State University to conduct research on Multi-Agent Epistemic Planning in collaboration with Professors Enrico Pontelli and Tran Cao Son
-
-- company: NMSU
-  company_w_location: New Mexico State University
-  link: https://www.nmsu.edu/
-  title: Assistant Professor
-  date: August 2023 - August 2024
-  description: |
-    Structured and taught undergraduate and graduate courses at the Computer Science Department.
-    Furthermore, I focused on research in neuro-symbolic AI, automated planning, multi-agent epistemic reasoning, and computational logic.
-    
-    <p style='color: var(--theme-primary);'><b>Courses</b></p>
-    <ul class="list naked-list" style="font-size: 15px">
-      <li> <i>Applied Machine Learning I</i> (CS 487/519) </li>
-      <li> <i>Analysis of Algorithms</i> (CS 570) </li>
-      <li> <i>Parallel Programming</i> (CS 491/521) </li>
-      <li> <i>Python Programming I</i> (CS 153/453) </li>
-      <li> <i>C++ Programming</i> (CS 151/451) </li>
-    </ul>
-
-- company: SJU
-  company_w_location: Saint Joseph’s University
-  link: https://www.sju.edu/
-  title: Adjunct Professor
-  date: January - July 2023
-  description: |
-    Structured and taught the undergraduate and graduate courses offered by the <i>Decision & System Sciences</i> curriculum at
-    the <i>Erivan K. Haub School of Business</i>.
-    Moreover, I focused on research in <a href='https://sdgdashboard.sju.edu/' target="_blank">applied AI</a>, neuro-symbolic AI, automated planning and computational logic.
-
-    <p style='color: var(--theme-primary);'><b>Courses</b></p>
-    <ul class="list naked-list" style="font-size: 15px">
-      <li> <i>Advanced Python Programming</i> (DSS 770) </li>
-      <li> <i>BIA: Concepts & Practices</i> (DSS 315) </li>
-      <li> <i>Advanced Python Programming</i> (DSS 693) </li>
-      <li> <i>Python Programming</i> (DSS 615) </li>
-    </ul>
-
-
-- company: UniPR
-  company_w_location: University of Parma
-  link: https://www.unipr.it/en
-  title: Adjunct Professor
-  date: October 2022 - September 2023
-  description: |
-    Structured and taught the undergraduate course <i>Typing in LaTeX</i>, open to all the students of the University.
-    The course was designed to help the students acquire the necessary capabilities to realize documents using the typesetting language LaTeX.
-    The teaching was comprised of 24 hours (equivalent to 3 Italian credits) of frontal lectures and exercises.
-    Finally, the evaluation was based on a project.
-
-    <p style='color: var(--theme-primary);'><b>Courses</b></p>
-    <ul class="list naked-list" style="font-size: 15px">
-      <li> <i>Typing in LaTeX</i> </li>
-    </ul>
-
-- company: ACMI
-  company_w_location: ACMI S.P.A. & University of Parma
-  link: https://www.acmispa.it/
-  title: Research Fellowship
-  date: January 2021 - December 2022
-  description: |
-    <b style='color: var(--theme-primary);'>Research Title:</b> <i>Artificial Intelligence for packaging production line</i>.
-    <br>Implemented an automated reasoning tool that makes use of innovative techniques
-    (e.g., constraint programming, planning, etc.) to model production processes and that returns
-    an optimized and safe plan that controls the robotic components in the production line.
-
-- company: NMSU
-  company_w_location: New Mexico State University
-  link: https://www.nmsu.edu/
-  title: Web Master
-  date: August 2017 - May 2018
-  description: |
-    Migrated the website of the College of Arts and Sciences to a user-friendly platform to simplify the College’s staff work.
-    After the migration, support and maintenance for the website was provided.
-
-- company: NMSU
-  company_w_location: New Mexico State University
-  link: https://www.nmsu.edu/
-  title: Research Assistant
-  date: January - July 2017
-  description: |
-    Studied, under Prof. Enrico Pontelli, the design of an epistemic forward planner with particular
-    attention to heuristics for the solving process and optimizations for the underlying knowledge representation.
+    Optimising the deposition of p-type Cu2O thin films by RF-Magnetron sputtering. Fabrication and I-V characterization of p-type oxide Thin film transistors(TFT).

@@ -1,0 +1,18 @@
+---
+title: my projects
+order: "05"
+---
+<div class="loader_sec"><span></span></div>
+<h1 class="section-header">My projects</h1>
+<div class="accordeon">
+  {% for e in site.data.myprojects %}
+    <div class="accordeon-item">
+      <h1 class="accordeon-title">{{ e.title }} <a href="{{ e.link }}" target="_blank">@ {{ e.company_w_location }}</a></h1>
+      <div class="accordeon-content">
+        <h2 class="accordeon-subtitle">{{ e.date }}</h2>
+        <p>{{ e.description | markdownify }}</p>
+        <hr>
+      </div>
+    </div>
+  {% endfor %}
+</div>
